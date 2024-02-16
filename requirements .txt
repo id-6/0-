@@ -1,0 +1,7 @@
+requests
+ast
+collections
+typing
+logging
+dotenv
+pyrogram
